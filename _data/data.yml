@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Marcos Couto
-    tagline: Engenheiro Eletricista
+    tagline: Engenheiro Eletricista / Eletrônico
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: marcos.couto@live.com
-    phone: 019 98206 6972
+    phone: +55 19 98206 6972
     website: marcos-couto.github.io #do not add http://
-    linkedin: mcouto
+    linkedin: www.linkedin.com/in/mcouto
     github: marcos-couto
     gitlab:
     bitbucket:
@@ -28,11 +28,11 @@ sidebar:
       - idiom: Português
         level: Nativo
 
-      - idiom: English
-        level: Professional
+      - idiom: Inglês
+        level: Avançado/Profissional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Espanhol
+        level: Avançado/Profissional
 
     interests:
       - item: Ciclismo
@@ -85,7 +85,7 @@ experiences:
 
     - role: Customer Maintenance Tech Support Engineer
       time: 1998 - 2017
-      company: Nokia/Alcatel-Lucent/Lucent
+      company: Nokia/Alcatel-Lucent/Lucent Technologies
       details: |
         Suporte técnico para aplicações, softwares.
         Troubleshooting para equipamentos de dados e voz como Redes ATM / Frame Relay / IP Core,Equipamentos de acesso e Comutação (rede fixa e móvel).
@@ -111,23 +111,26 @@ experiences:
         Treinamento de clientes.
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Linux
-        level: 80%
+      - name: Linux Server
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Windows Server
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: IoT - Internet of Things
         level: 95%
 
-      - name: Ruby on Rails
+      - name: HTML5 & CSS
+        level: 65%
+
+      - name: LoRa
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: PCB / EDA (Electronic Design Automation)
         level: 60%
+
+      - name: Microcontroladores PIC / ESP8266
+        level: 85%

@@ -64,6 +64,21 @@ education:
 
 
 experiences:
+   
+    - role: Project Consultant Engineer
+      time: 2017 - Atual
+      company: MC Labs 
+      details: |
+        Desenvolvimento de Sistemas embarcados;
+        Desenvolvimento de projetos eletrônicos;
+        Projetos de placas de circuito impresso PCB;
+        Desenvolvimento de sistemas baseados em IoT
+        Programação (Firmware) para microcontroladores PIC ( MikroC);
+        Programação (Firmware) para módulos IOT – ESP8266/ESP 12e / ESP 32;
+        Homologação/Substituição de componentes eletrônicos.
+        Testes de Software - Web / Mobile / Api - Selenium / Appium
+      
+   
     - role: Customer Maintenance Tech Support Engineer
       time: 1998 - 2017
       company: Nokia/Alcatel-Lucent/Lucent Technologies

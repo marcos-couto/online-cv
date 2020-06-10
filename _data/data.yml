@@ -1,7 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -33,14 +32,12 @@ sidebar:
       - idiom: Espanhol
         level: Avançado/Profissional
 
-
 career-profile:
     title: Perfil Profissional
     summary: |
       Ampla experiência em projetos, fabricação de produtos eletrônicos cobrindo design,
       testes, solução de problemas técnicos, suporte técnico para sistemas de gerência/aplicações
       e gerenciamento de projetos no Brasil e no Exterior.
-
 
 education:
     - degree: Bacharelado em Ciência de Dados
@@ -61,11 +58,8 @@ education:
       university: ETEP – Escola Técnica Prof. Everardo Passos
       time: 1979 - 1983
       details:
-
-
 experiences:
-   
-    - role: Project Consultant Engineer
+      - role: Project Consultant Engineer
       time: 2017 - Atual
       company: MC Labs 
       details: |
@@ -77,8 +71,7 @@ experiences:
         Programação (Firmware) para módulos IOT – ESP8266/ESP 12e / ESP 32;
         Homologação/Substituição de componentes eletrônicos.
         Testes de Software - Web / Mobile / Api - Selenium / Appium
-      
-   
+       
     - role: Customer Maintenance Tech Support Engineer
       time: 1998 - 2017
       company: Nokia/Alcatel-Lucent/Lucent Technologies
@@ -90,7 +83,6 @@ experiences:
         Engenharia de projetos.
         Redação de documentação técnica e procedimentos de implantação.
         Participação em conferências técnicas e seminários.
-
 
     - role: Engenheiro Eletrônico
       time: 1992 - 1998
@@ -105,7 +97,6 @@ experiences:
         Redação de documentação técnica e manuais do produto.
         Participação em conferências técnicas e seminários.
         Treinamento de clientes.
-
 skills:
     title: Skills
 

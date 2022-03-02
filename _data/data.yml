@@ -42,6 +42,10 @@ career-profile:
       e gerenciamento de projetos no Brasil e no Exterior.
 
 education:
+    - degree: MBA - Data Science and Analytics
+      university: USP/Esalq
+      time: 2021 - Em Andamento
+
     - degree: Bacharelado em Ciência de Dados
       university: UNIVESP
       time: 2020 - Em Andamento.
@@ -49,21 +53,42 @@ education:
     - degree: Engenharia Elétrica
       university: Universidade Federal de Juiz de Fora
       time: 1986 - 1991
-      details:
+      
 
     - degree: Análise e Desenvolvimento de Sistemas
       university: Fatec – Faculdade de Tecnologia de Santos
       time: 2008 - 2011
-      details:
+     
 
     - degree: Técnico em Eletrônica
       university: ETEP – Escola Técnica Prof. Everardo Passos
       time: 1979 - 1983
-      details:
+
+certifications:
+    CTFL - Certified Tester Foundation Level
+    time: 2021
 experiences:
 
+    - role: Camera Technical Support Engineer
+      time: 2020 - Atual
+      company: Instituto de Pesquisas Eldorado 
+      details:
+        Responsável pela realização de testes de câmeras no Laboratório de Imagens
+        Principais plataformas Dx0 e VCX
+        Projetos de Hardware/Software visando melhorias para testes de Imagem.
+        Projetos de Prova de Conceito (PoC) pra atividades de testes para o Laboratório de Imagem.
+        Testes funcionais,Testes de Confirmação, Testes de Regressão, Smoke Test, Sanity Test e Teste de Campo.
+        Processamento de imagem.
+        Desenvolvimento para manipular, extrair e analisar metadados de imagem e coletar arquivos de log durante as sessões de depuração.
+        Responsável pela Análise, Avaliação e laudos técnicos para qualidade de imagem de câmeras (Imagens e Vídeos).
+        Suporte técnico para qualidade de imagem para identificar e resolver problemas de IQ.
+        Trabalhando em estreita colaboração com diferentes grupos de câmeras globais, como engenharia, PM, equipes de teste de IQ
+        Realização de atividades para dar suporte a problemas de qualidade de imagem relatados pelos clientes, incluindo registro, 
+        análise e encaminhamento para o próximo nível de equipes de suporte/engenharia/desenvolvimento.
+        Boa experiência com JIRA, criando filtros e dashboards para rastrear problemas durante as atividades diárias.
+      
     - role: Project Consultant Engineer
-      time: 2017 - Atual
+      time: 2017 - 2020
       company: MC Labs 
       details: |
         Desenvolvimento de Sistemas embarcados.
@@ -114,7 +139,7 @@ skills:
         level: 95%
 
       - name: HTML5 & CSS
-        level: 65%
+        level: 85%
 
       - name: LoRa
         level: 85%
@@ -124,3 +149,5 @@ skills:
 
       - name: Microcontroladores PIC / ESP8266
         level: 85%
+      - name: JIRA
+        level: 85%  

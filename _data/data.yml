@@ -11,7 +11,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 'mc3labs@outlook.com'
+    email: 'marcos.couto@live.com.com'
     website: marcos-couto.github.io #do not add http://
     linkedin: mcouto
     github: marcos-couto
@@ -19,7 +19,6 @@ sidebar:
     bitbucket:
     twitter: '@koutonets'
     instagram: marcos.aurelio_couto
-    youtube: UCp7fuwjgDb97dvnI3Kaa1aQ
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe

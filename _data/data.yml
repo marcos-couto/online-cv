@@ -63,13 +63,13 @@ education:
       university: ETEP – Escola Técnica Prof. Everardo Passos
       time: 1979 - 1983
 
-    - degree: CTFL - Certified Tester Foundation Level(2021)
-    - degree: KSI -  Kanban Systems Improvement (20222)
-    - degree: KSD -  Kanban System Design (2022)
-    - degree: DP-900 - Microsoft Certified Azure Data Fundamentals
-    - degree: AZ-900 - Microsoft Certified Azure Fundamentals
-    - degree: AI-900 - Microsoft Certified Azure AI Fundamentals
-    - degree: AWS Certified Cloud Practitioner
+    - university: CTFL - Certified Tester Foundation Level(2021)
+    - university: KSI -  Kanban Systems Improvement (20222)
+    - university: KSD -  Kanban System Design (2022)
+    - university: DP-900 - Microsoft Certified Azure Data Fundamentals (2022)
+    - university: AZ-900 - Microsoft Certified Azure Fundamentals (2022)
+    - university: AI-900 - Microsoft Certified Azure AI Fundamentals (2022)
+    - university: AWS Certified Cloud Practitioner (2022)
 experiences:
 
     - role: Camera Technical Support Engineer

@@ -136,8 +136,8 @@ skills:
       - name: Linux Server
         level: 90%
 
-      - name: Windows Server
-        level: 90%
+      - name: Cloud Computing - Azure/AWS
+        level: 75%
 
       - name: IoT - Internet of Things
         level: 95%

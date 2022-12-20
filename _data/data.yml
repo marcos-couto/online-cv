@@ -63,8 +63,8 @@ education:
       university: ETEP – Escola Técnica Prof. Everardo Passos
       time: 1979 - 1983
 
-    - university: CTFL - Certified Tester Foundation Level(2021)
-    - university: KSI -  Kanban Systems Improvement (20222)
+    - university: CTFL - Certified Tester Foundation Level (2021)
+    - university: KSI -  Kanban Systems Improvement (2022)
     - university: KSD -  Kanban System Design (2022)
     - university: DP-900 - Microsoft Certified Azure Data Fundamentals (2022)
     - university: AZ-900 - Microsoft Certified Azure Fundamentals (2022)
@@ -136,7 +136,7 @@ skills:
       - name: Linux Server
         level: 90%
 
-      - name: Cloud Computing - Azure/AWS
+      - name: Cloud Computing Azure/AWS
         level: 75%
 
       - name: IoT - Internet of Things

@@ -62,14 +62,15 @@ education:
     - degree: Técnico em Eletrônica
       university: ETEP – Escola Técnica Prof. Everardo Passos
       time: 1979 - 1983
-    - university: DXO Mark Academy Certificate - Image Quality Fundamentals
-    - university: CTFL - Certified Tester Foundation Level (2021)
+    - university: Databricks Lakehouse Fundamentals (2023)
+    - university: DXO Mark Academy Certificate - Image Quality Fundamentals (2022)
     - university: KSI -  Kanban Systems Improvement (2022)
     - university: KSD -  Kanban System Design (2022)
     - university: DP-900 - Microsoft Certified Azure Data Fundamentals (2022)
     - university: AZ-900 - Microsoft Certified Azure Fundamentals (2022)
     - university: AI-900 - Microsoft Certified Azure AI Fundamentals (2022)
     - university: AWS Certified Cloud Practitioner (2022)
+    - university: CTFL - Certified Tester Foundation Level (2021)
 experiences:
 
     - role: Camera Technical Support Engineer
